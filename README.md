@@ -71,17 +71,17 @@ with effectiveness, efficiency and satisfaction in a specific context of use[8].
 1. Scenarios(as done in [1]).
 2. Surveys(as done in [7]).
 Used Survey with poll, to acquire useres expectations.
-![First Result](Res1.png)
-![Second Result](Res2.png)
+![First Result](/img/Res1.png)
+![Second Result](/img/Res2.png)
 ---
 
 ## Tangible Design
 
-![Model](2Res1.png)
-![Prototype](2Res2.png)
-![Menu](2Res3.png)
-![Control](2Res4.png)
-![Results](2Res5.png)
+![Model](/img/2Res1.png)
+![Prototype](/img/2Res2.png)
+![Menu](/img/2Res3.png)
+![Control](/img/2Res4.png)
+![Results](/img/2Res5.png)
 
 ---
 
