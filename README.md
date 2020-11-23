@@ -4,9 +4,9 @@
 
 ## Research Question
 
-**Motivation:** Improve the daily life of the fragile elderly through technology. **Smart Home** is very useful for the elderly, as the living in a smart home can ease their everyday activities and in some cases might be the only way of enjoying autonomy without risks[7].
+**Motivation:** To improve the daily life of the fragile elderly through technology. Because **Smart Home** is very useful for the elderly, as the living in a smart home can ease their everyday activities and in some cases might be the only way of enjoying autonomy without risks[7].
 
-**Question:** Which Interaction approach among the three studied cases is the most suitable for elderly people, in lights of the defined evaluation metrics.
+**Question:** Which Interaction approach among the three studied cases is the most suitable for elderly people, in the light of the defined evaluation metrics.
 
 **Objectives:** 
 1. Design and evaluate different user interaction systems.
@@ -76,6 +76,7 @@ Used Survey with poll, to acquire useres expectations.
 ---
 
 ## Tangible Design
+[10]
 
 ![Model](/img/2Res1.png)
 ![Prototype](/img/2Res2.png)
@@ -111,8 +112,8 @@ Mahwah, NJ: Lawrence Erlbaum
 
 [7]: Callejas, Zoraida & López-Cózar, Ramón. (2009). Designing smart home interfaces for the elderly. ACM SIGACCESS Accessibility and Computing. 10.1145/1651259.1651261. 
 
-<!-- [9]: Rus, Silvia & Helfmann, Stefan & Kirchbuchner, Florian & Kuijper, Arjan. (2020). Designing smart home controls for elderly. 1-10. 10.1145/3389189.3392610.  -->
-
 [8]: ISO  9241-11
 
 [9]: https://en.wikipedia.org/wiki/Acceptability
+
+[10]: Rus, Silvia & Helfmann, Stefan & Kirchbuchner, Florian & Kuijper, Arjan. (2020). Designing smart home controls for elderly. 1-10. 10.1145/3389189.3392610. 
