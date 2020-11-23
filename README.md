@@ -26,7 +26,7 @@ Then, find metrics that can help verify the design depending on this requirement
 
 ---
 
-### Functionalities for the prototype[1]
+### Functionalities for the prototype
 
 - windows and blinds
 - TV
