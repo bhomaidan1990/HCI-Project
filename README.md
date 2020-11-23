@@ -6,7 +6,7 @@
 
 **Motivation:** To improve the daily life of the fragile elderly through technology. Because **Smart Home** is very useful for the elderly, as the living in a smart home can ease their everyday activities and in some cases might be the only way of enjoying autonomy without risks[7].
 
-**Question:** Which Interaction approach among the three studied cases is the most suitable for elderly people, in the light of the defined evaluation metrics.
+**Question:** Which Interaction approach among the three studied cases is the most suitable for elderly people, in the needs of the users. Then, find metrics that can help verify the design depending on this requirements.
 
 **Objectives:** 
 1. Design and evaluate different user interaction systems.
