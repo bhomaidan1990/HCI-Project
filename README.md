@@ -6,7 +6,11 @@
 
 **Motivation:** To improve the daily life of the fragile elderly through technology. Because **Smart Home** is very useful for the elderly, as the living in a smart home can ease their everyday activities and in some cases might be the only way of enjoying autonomy without risks[7].
 
-**Question:** Which Interaction approach among the three studied cases is the most suitable for elderly people, in the needs of the users. Then, find metrics that can help verify the design depending on this requirements.
+**Question:** Which Interaction approach among the three studied cases is the most suitable for elderly people, in the needs of the users. 
+- physical disorders(hearing, sight, mobility)[1]
+- cognitive level(memory disorders, learning ability)[1]
+
+Then, find metrics that can help verify the design depending on this requirements.
 
 **Objectives:** 
 1. Design and evaluate different user interaction systems.
@@ -14,11 +18,23 @@
    
 ---
 
-### Difficulties and Challenges
+### ~~Difficulties and Challenges~~
 
-1. **Loss of memory.**
-2. **Physical limitations**: biological fragility is reflected in physical disorders such as hearing, sight[1].
-3. **Psychological challenges**: The proprioception degeneration which causes in the elderly a fear of falling and therefore limits outings [2], which causes a loneliness and a social fragility [3]. As well as the psychological fragility which implies a loss of identity [4-5] and a reassessment of its role within the society.
+1. ~~**Loss of memory.**~~
+2. ~~**Physical limitations**: biological fragility is reflected in physical disorders such as hearing, sight[1].~~
+3. ~~**Psychological challenges**: The proprioception degeneration which causes in the elderly a fear of falling and therefore limits outings [2], which causes a loneliness and a social fragility [3]. As well as the psychological fragility which implies a loss of identity [4-5] and a reassessment of its role within the society.~~
+
+---
+
+### Functionalities for the prototype[1]
+
+- windows and blinds
+- TV
+- contact
+
+They are the most wanted functionalities according to [1].
+
+So, our design should be evaluated under target users' needs on those functionalites.
 
 ---
 
@@ -29,7 +45,7 @@ Researchers [6] have created seven principles applied to universal design:
 1. **Generality**, the design must take all users into account without stigmatizing them.
 2. **Flixibility**, adapting to individual abilities.
 3. **Simplicity**, the device must be understandable by all, independently of the user experience.
-4. **Accessibility**, to make the information accessible in a multimodal way and to be able to use different supports.
+4. **Accessibility**, to make the information accessible in a multimodal way and to be able to use different supports. (operations can be performed anywhere, anytime)
 5. **Security**, minimizing error risks and having security features.
 6. **Efficiency**, the device should be used efficiently
 with low cognitive and physical load.
@@ -89,6 +105,16 @@ Used Survey with poll, to acquire useres expectations.
 ## Conclusion
 
 **TBD** in Meeting
+
+---
+
+So thing we should care about:
+
+   1. we choose the best model with our judgement
+   2. implement protype
+   3. evaluation usability
+   4. questions with the user, and get their response from all the proposed models.
+   5. draw some conclusions 
 
 ---
 
