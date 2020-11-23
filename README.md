@@ -82,6 +82,11 @@ with effectiveness, efficiency and satisfaction in a specific context of use[8].
    - Errors prevented
    - Subjective satisfaction
    
+**Some metric we can use according to [10]**
+  - System Usability Scale(SUS) and NASA-TLX are used as a subjective assessment tools to measure the **system usability** and **cognitive workload** in this study
+  - usability: the time taken by the participants to memorise each set of commands 
+  - usability: user performance error rate
+
 ## How to carry the evaluation?
 
 1. Scenarios(as done in [1]).
