@@ -60,7 +60,7 @@ We provide a detailed explanasion about the Model, and the interaction inputs, a
 
 1. Is there an ambiguous or unclear interaction?(to evaluate memorability and Model complixity)
 2. Do you thing that we have to change something in the design?(to evaluate acceptability)
-3. How frequent you will use this Model? (to evaluate useability)
+3. How frequent you will use this interaction or that? (to evaluate useability)
 
 ---
 
