@@ -54,7 +54,7 @@ First we introduce the shape of the model without further explanation, and we as
 
 ---
 
-### 3. Interview questions before explaining the describtion
+### 3. Interview questions after explaining the describtion
 
 We provide a detailed explanasion about the Model, and the interaction inputs, and outputs, then we ask questions:
 
