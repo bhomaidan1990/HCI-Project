@@ -30,9 +30,9 @@ Friday 10:00-10:30  11/12/2020
 ---
 
 ### 1. Interview questions about user charastaristic
-
+(Deng: I think 2-5 can be asked in a more comfortable way )
 1. How old are you?
-2. What kind of **physical** disorders do you have?
+2. What kind of **physical** disorders do you have? 
 3. What kind of **cognitive** disorders do you have?
 4. Do you need assistance in order to do your daily chores?
 5. What is the level of the needed assistance on a scale of 6?
@@ -51,7 +51,11 @@ First we introduce the shape of the model without further explanation, and we as
 2. How confident do you feel to use this Model to control appliances in your house? (to evaluate initial acceptability)
 3. Does this Model seems to be easy to use? (to evaluate initial acceptability)
 4. Is it easy to move from room to room? (to evaluate portability)
-
+   
+>For question 1, an open question maybe more suitable. Like <u>could you tell me what possible meaning of the icons on the panel?</u> Then base on their reply, we can set a score for that. This is for the **ease-of-use** evaluation.
+One question for **acceptability** is important: <u>Do you feel like using this interface?</u> Still more like an open question, we can also ask the user to give a scale.
+Third, I assume the interface has duplicate in each room. Maybe we should discuss this.
+**Commented by Deng**
 ---
 
 ### 3. Interview questions after explaining the describtion
@@ -59,9 +63,11 @@ First we introduce the shape of the model without further explanation, and we as
 We provide a detailed explanasion about the Model, and the interaction inputs, and outputs, then we ask questions:
 
 1. Is there an ambiguous or unclear interaction?(to evaluate memorability and Model complixity)
-2. Do you thing that we have to change something in the design?(to evaluate acceptability)
+2. Do you think that we have to change something in the design?(to evaluate acceptability)
 3. How frequent you will use this interaction or that? (to evaluate useability)
 
+>Still those questions are too straight forward. The interviewer may try to guess what we want instead of answering what they really think. For **Q2** here, we can ask: <u>Do you feel comfortable with this interface? If you have any ideas to improve it, please tell us.</u> And more questions like: <u> Is the organization of icon clear for you? </u>, <u>Do you think you need to remember what the icon mean when you use it? </u>
+**Commented by Deng**
 ---
 
 ## References
@@ -71,3 +77,5 @@ We provide a detailed explanasion about the Model, and the interaction inputs, a
 [1]: Elena Elias, Marc-Eric Bobillier-Chaumon, Michel Vacher. Methods to design home support for elders. HCI International 2018, Jul 2018, Las Vegas, United States. pp.276-289, ⟨10.1007/978-3-319-92037-5_21⟩. ⟨hal-01807679⟩
 
 [2]: Boyce, C., Neale, P. (2006) Conducting In-depth interviews: A Guide for Designing and Conducting In-Depth Interviews for Evaluation Input, Pathfinder international, pp.1-12. [Link](http://www2.pathfinder.org/site/DocServer/m_e_tool_series_indepth_interviews.pdf)
+
+[3]Bhuiyan M, Picking R. A gesture controlled user interface for inclusive design and evaluative study of its usability[J]. Journal of software engineering and applications, 2011, 4(09): 513.[Link](https://www.researchgate.net/publication/220204360_A_Gesture_Controlled_User_Interface_for_Inclusive_Design_and_Evaluative_Study_of_Its_Usability)
