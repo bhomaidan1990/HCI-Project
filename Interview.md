@@ -35,12 +35,15 @@ Friday 10:00-10:30  11/12/2020
 
 1. How old are you?
 2. What is your gender?(Man - Woman - etc...)
-3. What kind of **physical** disorders do you have? 
-4. What kind of **cognitive** disorders do you have?
-5. Do you need assistance in order to do your daily chores?
-6. What is the level of the needed assistance on a scale of 6?
+3. Do you need assistance in order to do your daily chores?
+4. What is the level of the needed assistance on a scale of 6?
+5. How often do you perform these tasks currently?
+E.g., how often to you open/close the blinds per day? How often do you turn the TV on and off per day? etc. How do you currently perform these tasks?
 
->This scale is graduated from 6 to 1, 6 represents independent persons for everyday life activities and 1 represents dependent persons with cognitive, physical, social, significant problems requiring a continued assistance[1].
+<!-- 3. What kind of **physical** disorders do you have?
+4. What kind of **cognitive** disorders do you have? -->
+
+> This scale is graduated from 1 to 6, 6 represents independent persons for everyday life activities and 1 represents dependent persons with cognitive, physical, social, significant problems requiring a continued assistance[1].
 
 ---
 
@@ -50,22 +53,23 @@ First we introduce the shape of the model without further explanation, and we as
 
 ![Tangible Model](/img/Tangible2.jpg)
 
-1. What can you understand from this Model generally? (to evaluate intuitivity and simplicity)
-2. How confident do you feel to use this Model to control appliances in your house? (to evaluate initial acceptability)
-3. How can you use this model to do this functionality(1 2 3)? (to evaluate initial acceptability)
-4. Is it easy to move from room to room? (to evaluate portability)
+1. could you tell me what possible meaning of the icons on the panel?</u> Then base on their reply, we can set a score for that. This is for the (ease-of-use evaluation).
+2. Would you use it in front of visitors? Family? Why? (to evaluate initial acceptability)
+3. How often would you use this interface compared to the current way you close the blinds? Why?
+4. How often do you move from one room to another in your home? Would you take this model with you when you move from one room to another one? Why (not)? (to evaluate portability)
+5. ask the user/s to perform some of the gestures so that they can experience it before they comment on it.
 
-> For question 1, an open question maybe more suitable. Like <u>could you tell me what possible meaning of the icons on the panel?</u> Then base on their reply, we can set a score for that. This is for the **ease-of-use** evaluation.
-One question for **acceptability** is important: <u>Do you feel like using this interface?</u> Still more like an open question, we can also ask the user to give a scale.
+> One question for **acceptability** is important: <u>Do you feel like using this interface?</u> Still more like an open question, we can also ask the user to give a scale.
 Third, I assume the interface has duplicate in each room. Maybe we should discuss this.
 **Commented by Deng**
+
 ---
 
 ### 3. Interview questions after explaining the describtion
 
 We provide a detailed explanasion about the Model, and the interaction inputs, and outputs, then we ask questions:
 
-1. Is there an ambiguous or unclear interaction?(to evaluate Model complixity)
+1. How can you use this model to do this functionality(and we specify the functionality: to control the TV, Conacts, Blinds)?(to evaluate Model complixity to the user)
 2. Will you be comfortable to use this model in front of other people?(to evaluate acceptability)
 3. How frequent you will use this interaction or that? (to evaluate useability)
 4. Can you list the advantages and disadvantages?
