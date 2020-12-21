@@ -30,7 +30,9 @@ Friday 10:00-10:30  11/12/2020
 ---
 
 ### 1. Interview questions about user charastaristic
+
 (Deng: I think 2-5 can be asked in a more comfortable way )
+
 1. How old are you?
 2. What is your gender?(Man - Woman - etc...)
 3. What kind of **physical** disorders do you have? 
@@ -46,14 +48,14 @@ Friday 10:00-10:30  11/12/2020
 
 First we introduce the shape of the model without further explanation, and we ask:
 
-![Tangible Model](/img/Tangible.jpg)
+![Tangible Model](/img/Tangible2.jpg)
 
 1. What can you understand from this Model generally? (to evaluate intuitivity and simplicity)
 2. How confident do you feel to use this Model to control appliances in your house? (to evaluate initial acceptability)
 3. How can you use this model to do this functionality(1 2 3)? (to evaluate initial acceptability)
 4. Is it easy to move from room to room? (to evaluate portability)
-   
->For question 1, an open question maybe more suitable. Like <u>could you tell me what possible meaning of the icons on the panel?</u> Then base on their reply, we can set a score for that. This is for the **ease-of-use** evaluation.
+
+> For question 1, an open question maybe more suitable. Like <u>could you tell me what possible meaning of the icons on the panel?</u> Then base on their reply, we can set a score for that. This is for the **ease-of-use** evaluation.
 One question for **acceptability** is important: <u>Do you feel like using this interface?</u> Still more like an open question, we can also ask the user to give a scale.
 Third, I assume the interface has duplicate in each room. Maybe we should discuss this.
 **Commented by Deng**
@@ -71,6 +73,7 @@ We provide a detailed explanasion about the Model, and the interaction inputs, a
 
 >Still those questions are too straight forward. The interviewer may try to guess what we want instead of answering what they really think. For **Q2** here, we can ask: <u>Do you feel comfortable with this interface? If you have any ideas to improve it, please tell us.</u> And more questions like: <u> Is the organization of icon clear for you? </u>, <u>Do you think you need to remember what the icon mean when you use it? </u>
 **Commented by Deng**
+
 ---
 
 ## References
