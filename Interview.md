@@ -31,8 +31,6 @@ Friday 10:00-10:30  11/12/2020
 
 ### 1. Interview questions about user charastaristic
 
-(Deng: I think 2-5 can be asked in a more comfortable way )
-
 1. How old are you?
 2. What is your gender?(Man - Woman - etc...)
 3. Do you need assistance in order to do your daily chores?
@@ -53,15 +51,12 @@ First we introduce the shape of the model without further explanation, and we as
 
 ![Tangible Model](/img/Tangible2.jpg)
 
-1. could you tell me what possible meaning of the icons on the panel?</u> Then base on their reply, we can set a score for that. This is for the (ease-of-use evaluation).
-2. Would you use it in front of visitors? Family? Why? (to evaluate initial acceptability)
-3. How often would you use this interface compared to the current way you close the blinds? Why?
-4. How often do you move from one room to another in your home? Would you take this model with you when you move from one room to another one? Why (not)? (to evaluate portability)
-5. ask the user/s to perform some of the gestures so that they can experience it before they comment on it.
-
-> One question for **acceptability** is important: <u>Do you feel like using this interface?</u> Still more like an open question, we can also ask the user to give a scale.
-Third, I assume the interface has duplicate in each room. Maybe we should discuss this.
-**Commented by Deng**
+1. could you tell me what possible meaning of the icons on the panel?</u> Then base on their reply, we can set a score for that. This is for the (ease-of-use evaluation). **( I think the model should be introduced during this question.)**
+2. ~~Would you use it in front of visitors? Family? Why? (to evaluate initial acceptability)~~ **same as what would be asked in 3.2**
+3. Would you want to do daily jobs with this interface? Eg. TV, blinds, etc. Why?
+4. How often would you use this interface compared to the current way you ~~close the blinds~~ do your daily jobs? Why? **(give some examples here, TV, blinds, windows, etc.)**
+5. How often do you move from one room to another in your home? Would you take this model with you when you move from one room to another one? Why (not)? (to evaluate portability)
+6. ~~ask the user/s to perform some of the gestures so that they can experience it before they comment on it.~~ **Merged into 3.1**
 
 ---
 
@@ -74,9 +69,6 @@ We provide a detailed explanasion about the Model, and the interaction inputs, a
 3. How frequent you will use this interaction or that? (to evaluate useability)
 4. Can you list the advantages and disadvantages?
 5. Can you please comment on the difficulty of usage?(any pain or issues?)
-
->Still those questions are too straight forward. The interviewer may try to guess what we want instead of answering what they really think. For **Q2** here, we can ask: <u>Do you feel comfortable with this interface? If you have any ideas to improve it, please tell us.</u> And more questions like: <u> Is the organization of icon clear for you? </u>, <u>Do you think you need to remember what the icon mean when you use it? </u>
-**Commented by Deng**
 
 ---
 
