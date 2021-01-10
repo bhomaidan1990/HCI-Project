@@ -12,6 +12,8 @@
 
 ### List of the Topics
 
+- [Link to the Final Report](https://ensiwiki.ensimag.fr/index.php?title=Smart_Home_Automation_for_Elderly)
+
 - [Discussion](Discussion.md)
 
 - [Interview](Interview.md)
